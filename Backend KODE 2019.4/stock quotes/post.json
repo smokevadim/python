@@ -1,0 +1,1 @@
+POST /subscription Content-Type: application/json { "ticker": "TSLA", "email": "mail@example.com" "max_price": "270.5200", "min_price": "240.200", }
